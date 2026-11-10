@@ -52,3 +52,8 @@ If you want to run the raw `.pyw` files or build the `.exe` files yourself:
 2. Create a virtual environment and install the dependencies:
    ```bash
    pip install -r requirements.txt
+   ```
+
+## Releases
+
+Download the latest version from the [Releases page](https://github.com/AhmedElBehery-bs/FlickerFlow/releases). The current release is [v1.0.0](https://github.com/AhmedElBehery-bs/FlickerFlow/releases/tag/v1.0.0), which includes `FlickerSuite_v1.0.zip`.
