@@ -1,0 +1,32 @@
+venv/
+build/
+dist/
+internal/
+*.spec
+.entry_viewer_config.json
+__pycache__/
+
+
+# Virtual Environments
+venv/
+.venv/
+env/
+
+# PyInstaller Build Artifacts
+build/
+dist/
+*.spec
+
+# Python cache
+__pycache__/
+*.pyc
+
+# User-specific configs
+.entry_viewer_config.json
+*.log
+
+# Large release files (Upload these to GitHub Releases, not the code repository)
+*.zip
+
+# Ignored folder
+internal/
